@@ -548,6 +548,7 @@ def layout():
                 id='alignment-chart',
                 height=725,
                 data=dataset3,
+                sequenceIds=[1, 2]
             ),
         ])),
 
